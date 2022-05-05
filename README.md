@@ -17,15 +17,19 @@
 ![2022-05-04 (7)](https://user-images.githubusercontent.com/99952793/166728583-753fdaa4-4b5f-47cf-9611-b5585e88dd6b.png)
 
 ### Built With
-
-HTML, CSS, JavaScript, Bootstrap
+   <ul>
+      <li>HTML5</li> 
+      <li>CSS3</li> 
+      <li>JavaScript</li> 
+      <li>BootStrap5</li> 
+   </ul>
 
 ## Features
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the following user stories:
 
-User story: I can see a page following the given design
-User story: On mobile, I can see a collapsed navigation
+User story: I can see a page following the given design</br>
+User story: On mobile, I can see a collapsed navigation</br>
 User story: On mobile, when I select the hamburger menu, I can see a navigation
 
 ## Contact
