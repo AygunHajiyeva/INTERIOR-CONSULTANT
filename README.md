@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://interior-design-dev.netlify.app">
+    <a href="frabjous-churros-535f2c.netlify.app">
       >>> Demo <<<
     </a>
   </h3>
