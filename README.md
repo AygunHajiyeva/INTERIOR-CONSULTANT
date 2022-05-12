@@ -1,4 +1,4 @@
-<h1 align="center">{Interior Consultant}</h1>
+<h1 align="center">Interior Consultant</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -14,9 +14,11 @@
 
 
 ## Overview
-![2022-05-04 (7)](https://user-images.githubusercontent.com/99952793/166728583-753fdaa4-4b5f-47cf-9611-b5585e88dd6b.png)
+![screencapture-frabjous-churros-535f2c-netlify-app-2022-05-12-11_13_02](https://user-images.githubusercontent.com/99952793/168013042-c05b744e-65ce-47c1-a475-7570bed326af.png)
 
-### Built With
+
+
+## Built With
    <ul>
       <li>HTML5</li> 
       <li>CSS3</li> 
@@ -25,8 +27,6 @@
    </ul>
 
 ## Features
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the following user stories:
 
 User story: I can see a page following the given design</br>
 User story: On mobile, I can see a collapsed navigation</br>
