@@ -5,11 +5,11 @@
 </div>
 
 <div align="center">
-  <h3>
+  <h1>
     <a href="https://frabjous-churros-535f2c.netlify.app/">
-      >>> Demo <<<
+      >>>> Demo <<<<
     </a>
-  </h3>
+  </h1>
 </div>
 
 
