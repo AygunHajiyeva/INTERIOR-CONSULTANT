@@ -34,6 +34,6 @@ User story: On mobile, when I select the hamburger menu, I can see a navigation
 
 ## Contact
 
-- GitHub [@AygunHajiyeva](https://{https://github.com/AygunHajiyeva})
+- GitHub [@AygunHajiyeva](https://github.com/AygunHajiyeva)
 
 
